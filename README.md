@@ -5,6 +5,3 @@
 [![ORIGIN GEN1 FIRMWARE](./README.assets/PCBLabel.svg)](https://github.com/Challenger-0/ORIGIN-GEN1-PCB)
 [![ORIGIN GEN1 FIRMWARE](./README.assets/SoftwareLabel.svg)](https://github.com/Challenger-0/ORIGIN-GEN1-KeyboardFirmware)
 
-
-<iframe src="./README.assets/html.html"></iframe>
-
