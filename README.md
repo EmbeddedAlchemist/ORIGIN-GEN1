@@ -2,7 +2,7 @@
 
 你好呀，这是模块化键盘ORIGIN-GEN1的简介页。
 
-如果需要这个项目的源代码，原理图或上位机软件，可以单击下面的标签跳转。
+**如果需要这个项目的源代码，原理图或上位机软件，可以单击下面的标签跳转到对应的仓库。**
 
 [![ORIGIN GEN1 FIRMWARE](./README.assets/FirmwareLabel.svg)](https://github.com/Challenger-0/ORIGIN-GEN1-KeyboardFirmware) 键盘固件
 
