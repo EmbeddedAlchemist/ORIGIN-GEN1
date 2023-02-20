@@ -23,8 +23,9 @@
 - **二维码捐赠**
 
   所有的捐赠都可以在7天之内联系作者原路退回（手续费除外）。
-
+<center>
   <img src="./README.assets/1676903631547.jpg" alt="1676903631547" style="zoom:25%;" /><img src="./README.assets/image-20230220223642646.png" alt="image-20230220223642646" style="zoom:25%;" />
+</center>
 
 - **购买成品**
 
